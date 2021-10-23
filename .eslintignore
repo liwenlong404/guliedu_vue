@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+layouts
+pages
+api
+utils
+plugins
